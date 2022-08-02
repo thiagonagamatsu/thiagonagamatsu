@@ -1,5 +1,3 @@
-### Oi, me chamo Thiago!
-
 - 🔭 Trabalho atualmente com TI - desenvolvimento e aprimoramento de sistemas de segurança.
 - 🌱 Estudando Javascript
 - 📫 Contato: thiagonagamatsu@gmail.com
